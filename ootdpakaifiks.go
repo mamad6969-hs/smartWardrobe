@@ -188,14 +188,14 @@ func rekomendasiOutfit(acara string) {
 
 func main() {
 	daftarPakaian = []Pakaian{
-		{"Kemeja Putih", "Atasan", "Putih", 3},
-		{"Celana Jeans", "Bawahan", "Biru", 1},
-		{"Jaket Hoodie", "Luaran", "Hitam", 2},
-		{"Blazer Hitam", "Luaran", "Hitam", 3},
-		{"Kaos Oblong", "Atasan", "Abu", 1},
-		{"Rok Span", "Bawahan", "Hitam", 3},
-		{"Mantel Hujan", "Luaran", "Biru", 2},
-		{"Sweater Rajut", "Atasan", "Coklat", 2},
+		{"Kemeja_Putih", "Atasan", "Putih", 3},
+		{"Celana_Jeans", "Bawahan", "Biru", 1},
+		{"Jaket_Hoodie", "Luaran", "Hitam", 2},
+		{"Blazer_Hitam", "Luaran", "Hitam", 3},
+		{"Kaos_Oblong", "Atasan", "Abu", 1},
+		{"Rok_Span", "Bawahan", "Hitam", 3},
+		{"Mantel_Hujan", "Luaran", "Biru", 2},
+		{"Sweater_Rajut", "Atasan", "Coklat", 2},
 	}
 	jumlahPakaian = len(daftarPakaian)
 
